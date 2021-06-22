@@ -2543,6 +2543,11 @@
   resolved "https://registry.yarnpkg.com/@redwoodjs/auth/-/auth-0.33.3.tgz#124a2ddccdf0f4974fd5e12dbd6434320de1950c"
   integrity sha512-xgYFMxxSIVhpyOtnvLRXI+SAmB9cEFoJTQerXCutCPGo/v0KS6GbYOcBG1kiPcXbWt2G+LAgICwxdOQ/jLjhlg==
 
+"@redwoodjs/auth@^0.34.1":
+  version "0.34.1"
+  resolved "https://registry.yarnpkg.com/@redwoodjs/auth/-/auth-0.34.1.tgz#6b312b6cf580dd15ba9043e6887817ecf67323e2"
+  integrity sha512-cIXhW7GIn8/1XPVqlhwwwdieSHNE08LIZxI2FhyT6dcZhsPVNaqaFCc5T72C1oX4gcSkGgu6eK3OOEr6J+BMwQ==
+
 "@redwoodjs/cli@^0.33.3":
   version "0.33.3"
   resolved "https://registry.yarnpkg.com/@redwoodjs/cli/-/cli-0.33.3.tgz#d749998774d8037bc5b9c3763042f29cdafbc444"
@@ -12619,6 +12624,11 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
+
+netlify-identity-widget@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.9.1.tgz#9e716c4b92b9f0cc041074eb86fc962f35295b46"
+  integrity sha512-9oIWjwUSdRk3SkREcZNjZaVuDDx9T/wSIXZNQsQeY4qoXic/FiXVEGgu2RU3IuA4OI3L2652xY1o+PpS03Ugaw==
 
 new-github-issue-url@^0.2.1:
   version "0.2.1"
